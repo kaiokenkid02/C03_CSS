@@ -1,0 +1,19 @@
+nav {
+    background-color: #3c3939;
+    padding: 16px 16px 16px 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 36px;
+    padding: 16px;
+}
+
+a:hover {
+    background-color: tomato;
+}
+
+.active {
+    background-color: dodgerblue;
+}
